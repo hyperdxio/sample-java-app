@@ -1,4 +1,4 @@
-# HyperDX Java Tracing Demo
+# HyperDX Java Otel Demo
 
 This is a minimal Java application that demonstrates how to send logs and distributed traces to [HyperDX](https://www.hyperdx.io) using the [OpenTelemetry Java Agent](https://github.com/open-telemetry/opentelemetry-java-instrumentation).
 
