@@ -34,7 +34,7 @@ The app:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/hyperdxio/hyperdx-java-demo.git](https://github.com/hyperdxio/sample-java-app.git)
+git clone https://github.com/hyperdxio/sample-java-app.git
 cd hyperdx-java-demo
 ```
 
