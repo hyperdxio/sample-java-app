@@ -1,0 +1,29 @@
+# Maven output
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ / Eclipse / VS Code IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Mac & Linux
+.DS_Store
+Thumbs.db
+
+# OpenTelemetry agent
+opentelemetry-javaagent.jar
+lib/opentelemetry-javaagent.jar
+
+# Build script artifacts (optional)
+out/
